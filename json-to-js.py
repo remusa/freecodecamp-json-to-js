@@ -26,6 +26,6 @@ def json_to_js(search_folder, json_file):
 
 
 if __name__ == "__main__":
-    search_dir = "D:\\\Projects\\Python\\freecodecamp-json-to-js\\files\\"
+    search_dir = "D:\\Projects\\Python\\freecodecamp-json-to-js\\files\\"
 
     get_json_files(search_dir)
